@@ -1,3 +1,4 @@
+CREATE SCHEMA sql_proyect;
 USE sql_proyect;
 
 CREATE TABLE ESTUDIANTES(
